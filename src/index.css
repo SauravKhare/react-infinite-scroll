@@ -48,3 +48,9 @@ body {
     transform: rotate(360deg);
   }
 }
+
+@media screen and (max-width: 500px) {
+  .img_container {
+    width: 300px;
+  }
+}
